@@ -41,4 +41,4 @@ Este proyecto está bajo la licencia [MIT](https://opensource.org/licenses/MIT).
 
 Si tienes alguna pregunta o sugerencia relacionada con este proyecto, no dudes en contactarme a través de mi correo electrónico o mis redes sociales. ¡Tu feedback es bienvenido!
 
-¡Gracias por visitar este repositorio y espero que encuentres útil esta calculadora básica!
+¡Gracias por visitar este repositorio y espero que encuentres útil esta calculadora!
