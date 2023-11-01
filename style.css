@@ -27,6 +27,9 @@ body {
     border: none;
     box-sizing: border-box;
     text-align: end;
+    height: 100px;
+    overflow-x: auto;
+    white-space: nowrap;
 }
 
 .display:disabled {
