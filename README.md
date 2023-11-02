@@ -24,8 +24,7 @@ La calculadora está desarrollada utilizando las siguientes tecnologías:
 3. La calculadora se cargará y estarás listo para comenzar a realizar cálculos.
 4. Ingresa los números y selecciona la operación deseada haciendo clic en los botones correspondientes.
 5. El resultado de la operación se mostrará en la pantalla de la calculadora.
-6. Para borrar los números ingresados, puedes hacer clic en el botón "Borrar".
-7. Si deseas reiniciar los cálculos, haz clic en el botón "Reiniciar".
+6. Para borrar los números ingresados, puedes hacer clic en el botón "⌫" o "AC".
 
 ¡Disfruta de tu nueva calculadora básica!
 
