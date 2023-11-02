@@ -39,9 +39,9 @@ body {
 .buttons {
     display: flex;
     flex-wrap: wrap;
+    flex-flow: column;
     justify-content: center;
     margin-top: 10px;
-    max-width: 1447px;
 }
 
 .button-row {
