@@ -41,6 +41,7 @@ body {
     flex-wrap: wrap;
     justify-content: center;
     margin-top: 10px;
+    max-width: 1447px;
 }
 
 .button-row {
